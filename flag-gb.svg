@@ -1,0 +1,19 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 21 14" width="21" height="14">
+	<title>product_in_detail_HP-xd</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m-1028-1734h1920v2232h-1920z"/>
+		</clipPath>
+		<image width="21" height="14" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAOCAYAAADABlfOAAAAAXNSR0IArs4c6QAAAj5JREFUOE9jfPTs3X81x3qGn7/+MKADUz15ho3uMgwPq7rAUubvLzIwKWVhqAMJGOvIMeyvcme46pnwn/HX81f/WSVEGW7ee8lgEdjF8PHzd7gmYgy1MVVm2JxhzXAjKJ1BOMiDQWVu53/GS5ZB/3+/+8CgvWsRA7ucNMPlm88YHCL6GN5//MaAz1BXGw2GFZH6DLei8hhEI/0YlKY1gx3TOnX7f0Z+3cL/WyfEMfA1tDH8efeRQWvbfAZ2OSmG05cfMtT1bmKYby6E4n3/1OkM872VGW4nljKIJYYyKPbVgA2r69/M0DJ5O4j5n/HW/Zf/QSx+Xk4GIaZ/YIPZJEQYmLi5wIpfTF+KYuiP+48ZGP79Z+BQloMH0+0Hr5DD+T/jCQE9sKFUBEPJ0AVrjoO9r68pw2CgJQMOhY/7jzP8fvmGQcDDnuHN8s0oYQoLpncbdzP8+/adQSjQnWHV7svI6fw/o21Yz/9DK4vBat+t28FwO7mcQTw1kmGJvD7D5t2XsCb+W/sbGVTkRRn+fvzMcMkikIGRlZWBdf5EBpukmaB0/p/x/////98s38RwN6uWQTI7jmGxpBZDbe9msCX40ik7GwvDsbWlDIbasmBfXXWLY2BkZWH4O7ENElFSRSkMs7kVGFqmgNMZSTmKj4eDYeeiXAZzA0WGX09fMFzzSvzPWNq+7n/PrN1YUxQx2RSmUZCfi2HHghwGU32F/4xfv//8F5U3j2HTnksYBpNi6OppqQw68+YwfNh9hAEANuALXNcUSgwAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		tspan { white-space:pre } 
+	</style>
+	<g id="Product in Detail- HP_1" clip-path="url(#cp1)">
+		<g id="Jazyková lokalizace">
+			<g id="Group 1509">
+				<use id="Flag_of_the_United_Kingdom.svg" href="#img1" transform="matrix(1,0,0,1,0,0)"/>
+			</g>
+		</g>
+	</g>
+</svg>

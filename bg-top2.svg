@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Vrstva_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1917 261" style="enable-background:new 0 0 1917 261;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#Rectangle_1995_00000026160352336643032860000000262881875337821056_);}
+	.st1{opacity:0.5;}
+	.st2{fill:none;}
+	.st3{fill:none;stroke:#C12983;stroke-width:150;}
+	.st4{fill:url(#Ellipse_495_00000007420041938207303420000015676782905388745381_);}
+	.st5{opacity:0.31;fill:url(#Rectangle_2005_00000010999894126335894670000013573975577976455868_);enable-background:new    ;}
+	.st6{opacity:0.31;fill:url(#Rectangle_2006_00000121254641836835923670000008517297773637385144_);enable-background:new    ;}
+	.st7{opacity:0.31;fill:url(#Rectangle_2007_00000014612013551707186820000015385237172298564536_);enable-background:new    ;}
+	.st8{opacity:0.31;fill:url(#Rectangle_2008_00000029762752786947523030000015617027958976497809_);enable-background:new    ;}
+</style>
+<defs>
+    <rect id="rect" width="100%" height="100%" fill="none" />
+    <clipPath id="clip">
+        <use xlink:href="#rect"/>
+    </clipPath>
+</defs>
+<g clip-path="url(#clip)">
+	<g>
+		<g>
+			<g id="Group_2135" transform="translate(307 404)">
+				
+					<linearGradient id="Rectangle_1995_00000164506177528722079670000005774426553450949012_" gradientUnits="userSpaceOnUse" x1="-1231.6588" y1="208.4942" x2="-1231.6588" y2="207.7063" gradientTransform="matrix(1920 0 0 261 2365435 -54560)">
+					<stop  offset="0" style="stop-color:#1E3D91"/>
+					<stop  offset="0" style="stop-color:#1F3D91"/>
+					<stop  offset="1" style="stop-color:#9E2782"/>
+				</linearGradient>
+				
+					<rect id="Rectangle_1995" x="-310" y="-404" style="fill:url(#Rectangle_1995_00000164506177528722079670000005774426553450949012_);" width="1920" height="261"/>
+				<g id="Ellipse_496" transform="translate(1604 -404)" class="st1">
+					<circle class="st2" cx="3" cy="-92" r="312"/>
+					<circle class="st3" cx="3" cy="-92" r="237"/>
+				</g>
+				
+					<linearGradient id="Ellipse_495_00000062163487892405700170000015259583038190393259_" gradientUnits="userSpaceOnUse" x1="-1231.0133" y1="200.7019" x2="-1231.0093" y2="199.7239" gradientTransform="matrix(-624 0 0 -624 -768455 124430)">
+					<stop  offset="0" style="stop-color:#1E3D91;stop-opacity:0"/>
+					<stop  offset="1" style="stop-color:#9E2782"/>
+				</linearGradient>
+				
+					<circle id="Ellipse_495" style="fill:url(#Ellipse_495_00000062163487892405700170000015259583038190393259_);" cx="-304" cy="-496" r="312"/>
+				<g id="Group_1527" transform="translate(196 -317)">
+					
+						<linearGradient id="Rectangle_2005_00000155842913238160179110000007718211951484769205_" gradientUnits="userSpaceOnUse" x1="-2030.75" y1="205.2966" x2="-2030.75" y2="206.2966" gradientTransform="matrix(20 0 0 435 40316 -89595)">
+						<stop  offset="0" style="stop-color:#FFFFFF"/>
+						<stop  offset="1" style="stop-color:#C12983"/>
+					</linearGradient>
+					
+						<path id="Rectangle_2005" style="opacity:0.31;fill:url(#Rectangle_2005_00000155842913238160179110000007718211951484769205_);enable-background:new    ;" d="
+						M-299-291L-299-291c5.5,0,10,4.5,10,10v415c0,5.5-4.5,10-10,10l0,0c-5.5,0-10-4.5-10-10v-415C-309-286.5-304.5-291-299-291z"/>
+					
+						<linearGradient id="Rectangle_2006_00000090978666351529302270000009722822998412951976_" gradientUnits="userSpaceOnUse" x1="-2030.75" y1="205.2966" x2="-2030.75" y2="206.2966" gradientTransform="matrix(20 0 0 435 40359 -89708)">
+						<stop  offset="0" style="stop-color:#FFFFFF"/>
+						<stop  offset="1" style="stop-color:#C12983"/>
+					</linearGradient>
+					
+						<path id="Rectangle_2006" style="opacity:0.31;fill:url(#Rectangle_2006_00000090978666351529302270000009722822998412951976_);enable-background:new    ;" d="
+						M-256-404L-256-404c5.5,0,10,4.5,10,10V21c0,5.5-4.5,10-10,10l0,0c-5.5,0-10-4.5-10-10v-415C-266-399.5-261.5-404-256-404z"/>
+				</g>
+				
+					<linearGradient id="Rectangle_2007_00000101090079356508980130000003932801786500812958_" gradientUnits="userSpaceOnUse" x1="-1246.75" y1="204.5745" x2="-1246.75" y2="205.5745" gradientTransform="matrix(20 0 0 557 26286 -114678)">
+					<stop  offset="0" style="stop-color:#C12983"/>
+					<stop  offset="1" style="stop-color:#FFFFFF"/>
+				</linearGradient>
+				
+					<path id="Rectangle_2007" style="opacity:0.31;fill:url(#Rectangle_2007_00000101090079356508980130000003932801786500812958_);enable-background:new    ;" d="
+					M1351-730L1351-730c5.5,0,10,4.5,10,10v537c0,5.5-4.5,10-10,10l0,0c-5.5,0-10-4.5-10-10v-537C1341-725.5,1345.5-730,1351-730z"
+					/>
+				
+					<linearGradient id="Rectangle_2008_00000172401732877395448870000002008789189998437037_" gradientUnits="userSpaceOnUse" x1="-1246.75" y1="205.2966" x2="-1246.75" y2="206.2966" gradientTransform="matrix(20 0 0 435 26329 -90007)">
+					<stop  offset="0" style="stop-color:#C12983"/>
+					<stop  offset="1" style="stop-color:#FFFFFF"/>
+				</linearGradient>
+				
+					<path id="Rectangle_2008" style="opacity:0.31;fill:url(#Rectangle_2008_00000172401732877395448870000002008789189998437037_);enable-background:new    ;" d="
+					M1394-703L1394-703c5.5,0,10,4.5,10,10v415c0,5.5-4.5,10-10,10l0,0c-5.5,0-10-4.5-10-10v-415C1384-698.5,1388.5-703,1394-703z"
+					/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>

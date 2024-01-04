@@ -1,0 +1,27 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 21 14" width="21" height="14">
+	<title>product_in_detail_HP-xd</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m-427-1734h1920v2232h-1920z"/>
+		</clipPath>
+	</defs>
+	<style>
+		tspan { white-space:pre } 
+		.s0 { fill: #000000 } 
+		.s1 { fill: #dd0000 } 
+		.s2 { fill: #ffce00 } 
+	</style>
+	<g id="Product in Detail- HP_1" clip-path="url(#cp1)">
+		<g id="Jazyková lokalizace">
+			<g id="Group 1508">
+				<g id="Flag_of_Germany">
+					<path id="black_stripe" class="s0" d="m0 0h21v14h-21z"/>
+					<path id="red_stripe" class="s1" d="m0 4.7h21v9.3h-21z"/>
+					<path id="gold_stripe" class="s2" d="m0 9.3h21v4.7h-21z"/>
+				</g>
+				<text id="Text layer 440" style="transform: matrix(1,0,0,1,-83,-28)" >
+				</text>
+			</g>
+		</g>
+	</g>
+</svg>
